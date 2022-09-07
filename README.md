@@ -1,2 +1,2 @@
-# Site_Vendas
+# Site_Vendas ecommerce
 # em desenvolvimento
